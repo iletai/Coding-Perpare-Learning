@@ -29,7 +29,12 @@ If you skillfully and working with IDE ofen, you will save many time and have so
 
 # SHORT KEY
 >Working faster with shortkey and experiencer
-
+```json
+{
+Crtl+F: Find
+Ctrl+M+O: Collapse Code
+}
+```
 
 
 
