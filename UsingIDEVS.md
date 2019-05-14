@@ -31,7 +31,7 @@ If you skillfully and working with IDE ofen, you will save many time and have so
 >Working faster with shortkey and experiencer
 ```json
 {
-Crtl+: Find
+Crtl+F: Find
 Ctrl+M+O: CollapseCode
 }
 ```
