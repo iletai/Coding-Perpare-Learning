@@ -21,5 +21,5 @@
  * Ditto
  * BeyonCompare
  * Search Everthing
- * Using IDE(Visual Studio/ VS Code)
+ * [Using IDE(Visual Studio/ VS Code)](https://github.com/iletai/Coding-Perpare-Learning/blob/master/UsingIDEVS.md)
  
