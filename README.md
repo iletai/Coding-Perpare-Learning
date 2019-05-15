@@ -17,9 +17,10 @@
   
 ## 📜 List Tool/Version Control Need To Know 
 >I will introduce some tool i personal think need to improve your workload and prepare for process coding.
- * Git
- * Ditto
- * BeyonCompare
- * Search Everthing
+ * [Git](https://github.com/iletai/Coding-Perpare-Learning/blob/master/Git.md)
+ >Very improtant on process learning and practice coding of you. Within link to need more info
+ * [Ditto](https://github.com/iletai/Coding-Perpare-Learning/blob/master/Ditto.md)
+ * [BeyonCompare](https://github.com/iletai/Coding-Perpare-Learning/blob/master/BeyonCompare.md)
+ * [Search Everthing](https://github.com/iletai/Coding-Perpare-Learning/blob/master/SearchEverything.md)
  * [Using IDE(Visual Studio/ VS Code)](https://github.com/iletai/Coding-Perpare-Learning/blob/master/UsingIDEVS.md)
  
